@@ -8,3 +8,5 @@ ExecuteMyAisWithExecuteFeature
     Execute Feature    D:\\AtlasBuffet\\MyAIS\\Mobile\\    Login    3PO,3PE,3BE    gc    th
 
 test copy
+
+test copy 2
