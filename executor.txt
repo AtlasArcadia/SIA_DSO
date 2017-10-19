@@ -7,6 +7,3 @@ Resource          ../MyAIS/Mobile/Config/NtypeOfFeatureConfig.txt
 ExecuteMyAisWithExecuteFeature
     Execute Feature    D:\\AtlasBuffet\\MyAIS\\Mobile\\    Login    3PO,3PE,3BE    gc    th
 
-test from sub version.
-test svn.
-test from git.
