@@ -9,3 +9,4 @@ ExecuteMyAisWithExecuteFeature
 
 test from sub version.
 test svn.
+test from git.
